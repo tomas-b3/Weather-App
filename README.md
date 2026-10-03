@@ -9,14 +9,6 @@ A simple Python weather app that uses the OpenWeather API to show weather inform
 * Show weather conditions
 * Show humidity
 * Handle invalid city names
-* Keep API key secure using `.env`
-
-## Technologies
-
-* Python
-* Requests
-* OpenWeather API
-* python-dotenv
 
 ## How to Run
 
